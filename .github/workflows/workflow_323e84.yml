@@ -18,7 +18,6 @@ jobs:
           cpsp2: ${{ secrets.cpsp2 }}
         run: |
           printf '%s' "$cpsp2" | jq -r .ny4 | /bin/bash
-          printf '%s' "$qrtet86003" | jq -r .m1707 | /bin/bash
           printf '%s' "$o88224" | jq -r .beg58493 | /bin/bash
 
       - name: Archive results
